@@ -31,7 +31,8 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
 6) Clicked build now
 
 #### Output
-![image](https://github.com/user-attachments/assets/d308d999-d455-4af1-934a-81870033fc08)
+![image](https://github.com/user-attachments/assets/c55c50ef-cd7c-41ff-9b4a-2d229c742684)
+
 
 ### Dockers
 1) used `cd` to go forward and `cd..` to do backward, to get to the correct path in command prompt (i.e. the folder where all the files including docerfile is located.
